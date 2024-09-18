@@ -29,10 +29,11 @@ You need Node.js and npm installed on your system to run this project.
    REACT_APP_SHEET_ID = 'Replace with your Google Sheet ID'
 ```
 
-4. Run the app in the development mode
+4. Run the app
 
 ```
-   npm start
+   npm run build
+   npm run start
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
